@@ -1,0 +1,5 @@
+.custom-btn {
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+    color: rgba(255, 2, 34,);
+}
